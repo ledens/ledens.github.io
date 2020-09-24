@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Lance Edens, PhD
-  avatar: images/Edens1.jpg
+  avatar: bio-photo.jpg
   bio: "I have a PhD in Physical Chemistry from the University of New Mexico. I currently enrolled at OHSU’s DMICE masters program."
   email: edens@ohsu.edu
   # Do not include the @ symbol in your Twitter username
