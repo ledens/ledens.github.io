@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I have a PhD in Physical Chemistry from the University of New Mexico. After completing a postdoctoral research position at Washington State University I am now enrolled at OHSU’s Department of Medical Informatics and Clinical Epidemiology master program to complete my training in bioinformatics.
 
 ## Current Interests and Projects:
 
