@@ -7,8 +7,5 @@ I have a PhD in Physical Chemistry from the University of New Mexico. After comp
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- More will be added
+- Website is still a work-in-porgress
