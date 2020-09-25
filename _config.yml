@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Lance Edens Webpage
+title: Lance Edens' Webpage
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Lance Edens, PhD
   avatar: bio-photo.jpg
-  bio: "I have a PhD in Physical Chemistry from the University of New Mexico. I currently enrolled at OHSU’s DMICE masters program."
+  bio: "I have a PhD in Physical Chemistry from the University of New Mexico. Currently enrolled at OHSU’s DMICE masters program."
   email: edens@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
